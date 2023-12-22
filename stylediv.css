@@ -1,0 +1,30 @@
+.container1 {
+    border: 5px solid white;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+.container2 {
+    border: 5px solid white;
+    height: 700px;
+    width: 50px;
+    background-color: orange;
+}
+.container3 {
+    border: 5px solid white;
+    height: 700px;
+    width: 50px;
+    background-color: tomato;
+    position: absolute;
+    top: 9%;
+    left: 96.5%;
+}
+.container4 {
+    border: 5px solid white;
+    background-color: teal;
+    height: 50px;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top: 708px;
+}    

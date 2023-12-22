@@ -1,0 +1,1068 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    background-color: #026AA7;
+    padding: 2px;
+    height: 37px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    cursor: default;
+}
+
+.bt_div {
+    height: 15px;
+    width: 8px;
+    padding: 4px;
+    position: relative;
+    left: 40%;
+}
+
+.button {
+    background-color: rgba(5, 50, 80, 0.773);
+    border: none;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    padding: 6px;
+    height: auto;
+    width: 65px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.create:hover {
+    background-color: rgb(116, 165, 182);
+}
+
+.menu1 {
+    height: 17px;
+    width: 99px;
+    padding: 4px;
+    position: relative;
+    bottom: 16px;
+    border-radius: 4px;
+    left: 32%;
+    cursor: pointer;
+}
+
+.template:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.menu2 {
+    height: 17px;
+    width: 76px;
+    padding: 4px;
+    position: relative;
+    bottom: 43px;
+    border-radius: 4px;
+    left: 25%;
+    cursor: pointer;
+}
+
+.starred:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.menu3 {
+    height: 17px;
+    width: 75px;
+    padding: 4px;
+    position: relative;
+    border-radius: 4px;
+    bottom: 68px;
+    left: 18%;
+    cursor: pointer;
+}
+
+.recent:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.menu4 { 
+    height: 17px;
+    width: 105px;
+    padding: 4px;
+    position: relative;
+    border-radius: 4px;
+    bottom: 93px;
+    left: 10%;
+    cursor: pointer;
+}
+
+.workspace:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.logo {
+    height: 11px;
+    width: 8px;
+    padding: 11px;
+    border-radius: 4px;
+    position: relative;
+    bottom: 37px;
+    left: 11px;
+    cursor: pointer;
+}
+
+.logodot:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.dot1 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 4px;
+    right: 7px;
+}
+
+.dot2 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 9px;
+    left: 1px;
+}
+
+.dot3 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 14px;
+    left: 9px;
+}
+
+.dot4 { 
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 12px;
+    left: 9px;
+}
+
+.dot5 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 17px;
+    left: 1px;
+}
+
+.dot6 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 22px;
+    right: 7px;
+}
+
+.dot7 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 20px;
+    left: 9px;
+}
+
+.dot8 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 25px;
+    left: 1px;
+}
+
+.dot9 {
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+    right: 7px;
+}
+
+.trello {
+    position: absolute;
+    height: 29px;
+    width: 95px;
+    border-radius: 4px;
+    top: 6px;
+    left: 49px;
+    cursor: pointer;
+}
+
+.design:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.image {
+    height: 17px;
+    position: absolute;
+    top: 6px;
+    right: 6px;
+}
+
+.icon1 {
+    height: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 79px;
+    top: 6px;
+}
+
+.icon2 {
+    height: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 60px;
+    top: 6px;
+}
+
+.icon3 {
+    height: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 57px;
+    top: 6px;
+}
+
+.icon4 {
+    height: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 90px;
+    top: 6px;
+}
+
+.Rightdiv {
+    padding: 2px;
+    height: 37px;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}   
+
+.profileclass {
+    height: 19px;
+    width: 24px;
+   
+}
+
+.profile {
+    height: auto;
+    width: auto;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.prohov:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.questionclass {
+    height: 15px;
+    width: 16px;
+}
+
+.question {
+    height: auto;
+    width: auto;
+    border-radius: 4px;
+    padding: 7px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.quehov:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.notificationclass {
+    height: 16px;
+    width: 20px;
+
+}
+
+.notification { 
+    height:auto;
+    width: auto;
+    border-radius: 4px;
+    padding:6px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.nothov:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.search{
+    height: auto;
+    width: auto;
+    padding: 8px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    outline: none;
+    border-radius: 4px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.expand:focus {
+    width: 100%;
+    background-color: white!important;
+}
+
+.search::placeholder { 
+    color: white;
+    opacity: 1;
+    font-size: 14px;
+    padding-left: 33px;
+  }
+
+  .trellosearch:hover {
+    background-color: rgb(116, 165, 182);
+  }
+
+  .lensimage {
+      height: 20px;
+      position: relative;
+      left: 27px;
+  }
+
+  .boards {
+      /* border: 1px solid black; */
+      height: auto;
+      width: auto;  
+  }
+
+  .Tbox {
+      height: 60px;
+      width: 60px;
+      border-radius: 4px;
+      font-size: 25px;
+      text-align: center;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-weight: bold;
+      color: white;
+      background: linear-gradient(#006644, #00875a);
+      position: relative;
+      bottom: 25px;
+      left: 35%;
+      cursor: pointer;
+  }
+
+  .Tfont {
+       position: relative;
+       top: 7px; 
+      
+  }
+
+  .redbox{
+      /* border: 1px solid red; */
+      height: 70px;
+      width: 250px;
+      font-size: 15px;
+      color: rgb(61, 59, 59);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: absolute;
+      top: 65px;
+      left: 630px;
+  }
+
+  .greenbox {
+      /* border: 1px solid green; */
+      height: 22px;
+      width: 22px;
+      border-radius: 3px;
+      position: absolute;
+      top: 25px;
+      left: 191px;
+      cursor: pointer;
+  }
+
+  .greenhov:hover {
+      background-color: rgb(226, 226, 226);
+  }
+
+  .pencilimage {
+      height: 14px;
+      position: relative;
+      left: 4px;
+      top: 4px;
+ } 
+
+  .private {
+      font-size: 13px;
+      color: var(--ds-text-subtle, #5e6c84);
+      position: absolute;
+      left: 24px;
+      top: 36px;
+  }
+
+  .lockimage {
+      height: 15px;
+      position: absolute;
+      top: 48px;
+      left: 5px;
+  }
+
+  .divider {
+      border: 1px solid lightgrey;
+      width: 800px;
+      position: relative;
+      top: 10px;
+      right: 71px;
+  }
+
+  .bluebox {
+      /* border: 1px solid blue; */
+      height: 35px;
+      width: 290px;
+      position: relative;
+      left: 578px;
+      top: 10px;
+      font-size: 15px;
+      color: rgb(61, 59, 59);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  .trelloimage {
+      height: 18px;
+      width: 18px;
+      position: relative;
+      top: 6px;
+      left: 5px;
+  }
+
+  .dashed1 {
+      border: 1px dashed rgb(73, 72, 72);
+      width: 18px;
+      position: relative;
+      bottom: 19px;
+      left: 2px;
+  }
+
+  .dashed2 {
+    border: 1px dashed rgb(73, 72, 72);
+    height: 18px;
+    width: 0;
+    position: relative;
+    bottom: 21px;
+    left: 2px;
+  }
+
+  .mostpopular {
+      position: relative;
+      left: 30px;
+      bottom: 60px;
+  }
+
+  .description {
+      font-size: 14px;
+      color: var(--ds-text-subtle, #5e6c84);
+      margin-top: 25px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+      bottom: 5px;
+      left: 573px;
+      display: inline-block;
+  }
+
+  .select {
+      height: 35px;
+      width: 205px;
+      padding-left: 9px;
+      border-color: lightgray;
+      outline: none;
+      border-radius: 3px;
+      background-color: white;
+      font-size: 15px;
+      color: var(--ds-text-subtle, #5e6c84);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+      left: 975px;
+      bottom: 45px;
+      display: block;
+      cursor: pointer;
+
+  }
+
+  .select:hover {
+      background-color: rgb(226, 226, 226);
+  }
+
+  .select_focus:focus {
+      border: 2px solid rgb(39, 138, 204);
+  }
+
+  /* .violet_box {
+      border: 1px solid violet; 
+      display: inline-block;
+      border-radius: 3px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-left: 12px;
+      color: white;
+      height: 100px;
+      width: 216px;
+      position: relative;
+      left: 35%;
+      bottom: 18px;
+      cursor: pointer;
+  }
+
+  .box_name {
+      font-size: 16px;
+      position: relative;
+      bottom: 4px;
+      margin-left: 7px;
+  } */
+
+  .violet_box {
+    /* border: 1px solid violet; */
+    display: inline-block;
+    border-radius: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 12px;
+    color: white;
+    height: 100px;
+    width: 216px;
+    position: relative;
+    left: 35%;
+    bottom: 18px;
+    cursor: pointer;
+}
+
+.box_name {
+    font-size: 16px;
+    position: relative;
+    bottom: 4px;
+    margin-left: 7px;
+}
+
+  .temp {
+      /* border: 1px solid orangered; */
+      height: 14px;
+      width: fit-content;
+      border-radius: 3px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 11px;
+      background-color: rgba(255, 255, 255, 0.69);
+      color: #172B4D;
+      font-weight: bold;
+      padding: 3px 8px;
+      position: relative;
+      left: 7px;
+      top: 8px;
+  }
+
+  .violet_box:hover {
+      opacity: 0.9;
+  }
+
+  .close {
+      /* border: 1px solid yellow; */
+      height: 30px;
+      width: 30px;
+      border-radius: 3px;
+      background-color:  #F4F5F7;
+      position: relative;
+      bottom: 216px;
+      left: 1440px;
+      cursor: pointer;
+  }
+
+  .close_image {
+      height: 19px;
+      position: relative;
+      left: 5px;
+      top: 6px;
+  }
+
+  .close:hover {
+      background-color: #DFE1E6;
+  }
+
+  .link {
+      font-size: 14px;
+      margin-left: 569px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+      bottom: 40px;
+  }
+
+  a {
+      color: #6b808c;
+  }
+
+  .your_work {
+      font-size: 16px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      color: #5e6c84;
+      margin-left: 569px;
+      margin-bottom: 40px;
+  }
+
+  .brown_box {
+      /* border: 1px solid brown; */
+      display: inline-block;
+      height: 100px;
+      width: 216px;
+      color: #172b4d;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      border-radius: 3px;
+      margin-left: 12px;
+      position: relative;
+      left: 35%;
+      bottom: 15px;
+      cursor: pointer;
+  }
+
+  .brown_box:hover .star {
+      display: block;
+  }
+  
+  .brown_box:hover{
+    opacity: 0.9; 
+
+  }
+
+  .star {
+      height: 17px;
+      display: none;
+      position: relative;
+      left: 188px;
+      top: 72px;
+  }
+
+  .new_board {
+      bottom: 30px;
+      background-color:  rgb(232, 229, 229);
+  }
+
+  .big_label {
+      font-size: 14px;
+      text-align: center;
+      position: relative;
+      top: 20px;
+  }
+
+  .small_label {
+      font-size: 12px;
+      text-align: center;
+      position: relative;
+      top: 12px;
+  }
+
+  .new_board:hover {
+      background-color: rgb(226, 226, 226);
+  }
+
+  .circle {
+      border: 1px solid black;
+      border-radius: 50%;
+      height: 12px;
+      width: 12px;
+      position: relative;
+      left: 195px;
+      top: 5px;
+  }
+
+  .q_circle {
+      height: 9px;
+      position: relative;
+      bottom: 4px;
+      left: 1px;
+  }
+
+  .list {
+      /* border: 1px solid black; */
+      height: 428px;
+      width: 250px;
+      font-size: 14px;
+      font-weight: bold;
+      color: rgb(61, 59, 59);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+      bottom: 485px;
+      left: 290px;
+  }
+
+  .nav {
+      /* border: 1px solid blue; */
+      height: 32px;
+      width: 240px;
+      list-style: none;
+      border-radius: 4px;
+      margin-bottom: 3px;
+      cursor: pointer;
+  }
+
+  .nav:hover {
+      background-color: #DFE1E6;
+  }
+
+  .li_1 {
+      margin-left: 35px;
+      position: relative;
+      bottom: 8px;
+  }
+
+  .li_h {
+    margin-left: 35px;
+    position: relative;
+    bottom: 13px;
+  }
+
+  .li_image {
+      height: 13px;
+      margin-left: 10px;
+      position: relative;
+      top: 9px;
+  }
+
+  .li_image2 {
+      height: 12px;
+      margin-left: 11px;
+      position: relative;
+      top: 9px;
+  }
+
+  .dashed_list1 {
+    border: 1px dashed rgb(73, 72, 72);
+    width: 12px;
+    position: relative;
+    bottom: 25px;
+    left: 8px;
+  }
+
+  .dashed_list2 {
+    border: 1px dashed rgb(73, 72, 72);
+    height: 9px;
+    width: 0;
+    position: relative;
+    bottom: 25px;
+    left: 8px;
+  }
+
+  .li_image3 {
+      height: 18px;
+      margin-left: 9px;
+      position: relative;
+      top: 7px;
+  }
+
+  .divider_list {
+      border: 1px solid lightgrey;
+      width: 240px;
+  }
+
+  .space {
+      /* border: 1px solid blue; */
+      width: 230px;
+      height: 32px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      color: #5e6c84;
+      margin-top: 25px;
+      margin-left: 10px;
+  }
+
+  .plus {
+      /* border: 1px solid black; */
+      height: 20px;
+      width: 20px;
+      border-radius: 3px;
+      margin-left: 209px;
+      position: relative;
+      bottom: 17px;
+      cursor: pointer;
+  }
+
+  .plus:hover {
+      background-color: #DFE1E6;
+  }
+
+  .plus_img {
+      height: 18px;
+      position: relative;
+      top: 1px;
+      left: 1px;
+  }
+
+  .nav2 {
+    /* border: 1px solid blue; */
+    height: 43px;
+    width: 240px;
+    color: rgb(61, 59, 59);
+    border-radius: 4px;
+    position: relative;
+    bottom: 7px;
+    right: 11px;
+    cursor: pointer;
+  }
+
+  .nav2:hover {
+      background-color: #DFE1E6;
+  }
+
+  .Tbox_2 {
+    height: 21px;
+    width: 21px;
+    border-radius: 2px;
+    font-size: 10px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(#006644, #00875a);
+    position: relative;
+    top: 11px;
+    left: 8px;
+    cursor: pointer;
+  }
+
+  .Tfont_2 {
+    position: relative;
+    top: 2px; 
+  }
+
+  .tre_2 {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 14px;
+      position:relative;
+      bottom: 21px;
+      left: 36px;
+  }
+
+  .arrow_up {
+      height: 16px;
+      width: 16px;
+      position: relative;
+      bottom: 50px;
+      left: 220px;
+  }
+
+  .nav3 {
+    /* border: 1px solid blue; */
+    height: 32px;
+    width: 240px;
+    font-size: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(9, 30, 66, 0.66);
+    list-style: none;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    font-weight: 400;
+    position: relative;
+    top: 8px;
+    right: 11px;
+    cursor: pointer;
+  }
+
+  .nav3:hover {
+      background-color: #DFE1E6;
+  }
+
+  .li_2 {
+    margin-left: 60px;
+    position: relative;
+    top: 10px;
+  }
+
+  .li_image4 {
+    height: 12px;
+    margin-left: 39px;
+    position: absolute;
+    top:10px;
+  }
+
+  .li_image5 {
+    height: 17px;
+    margin-left: 36px;
+    position: absolute;
+    top:8px;
+  }
+
+  .para_box {
+      border: .5px solid lightgrey;
+      box-shadow: .5px 1px  lightgrey;
+      margin-top: 260px;
+      margin-left: 0;
+      border-radius: 3px;
+      font-size: 14px;
+      font-weight: 600;
+      color: rgb(61, 59, 59);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      height: 152px;
+      width: 239px; 
+  }
+
+  .heading {
+      margin-top: 20px;
+      margin-left: 15px;
+  }
+
+  .para {
+    font-size: 14px;
+    font-weight: 400;
+    color: #5e6c84;
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+  }
+
+  .anchor {
+      font-weight: 400;
+      margin-left: 15px;
+  }
+
+  .anchor:hover {
+      color:  #172b4d;
+  }
+
+  .close_2 {
+    /* border: 1px solid red; */
+    height: 18px;
+    width: 18px;
+    border-radius: 3px;
+    margin-left: 210px;
+    position: relative;
+    bottom: 140px;
+    cursor: pointer;
+  }
+
+  .close_2:hover {
+      background-color: rgb(245, 245, 245);
+  }
+
+  .close_bt {
+      height: 10px;
+      width: 11px;
+      margin-left: 3px;
+      margin-top: 4px;
+  }
+
+  .color_div {
+      border: 1px solid #89609E;
+      background-color: white;
+      height: 17px;
+      width: 20px;
+      border-radius: 4px;
+     
+  }
+
+  .d_1 {
+      /* border: 1px solid black; */
+      background-color: #89609E;
+      height: 10px;
+      width: 4px;
+      border-radius: 2px;
+      margin-left: 5px;
+      position: relative;
+      top: 3px;
+  }
+
+  .d_2 {
+    /* border: 1px solid black; */
+    background-color: #89609E;
+    height: 8px;
+    width: 4px;
+    border-radius: 2px;
+    margin-left: 11px;
+    position: relative;
+    bottom: 7px;
+  }
+
+  .upper_div {
+      border: 1px solid #89609E;
+      background-color: white;
+      height: 3px;
+      width: 12px;
+      border-radius: 1px;
+      margin-left: 4px;
+      position: relative;
+      top: 1px;
+  }
+
+  .inner_div {
+      border: 1px solid #89609E;
+      width: 4px;
+      margin-left: 3px;
+      margin-top:2px;
+  }
+
+  .left_div {
+      border: 1px solid #89609E;
+      background-color: white;
+      height: 15px;
+      width: 2px;
+      margin-left: 2px;
+      border-radius: 1px;
+      position: relative;
+      right: 5px;
+      bottom: 18px;
+  }
+
+  .right_div {
+    border: 1px solid #89609E;
+    background-color: white;
+    height: 15px;
+    width: 2px;
+    border-radius: 1px;
+    margin-left: 21px;
+    position: relative;
+    bottom: 35px;
+  }
+
+  .mom_div {
+      /* border: 1px solid #89609E; */
+      background-color: #89609E;
+      height: 5px;
+      width: 6px;
+      border-radius: 4px;
+      padding: 15px;
+      position: absolute;
+      right: 18px;
+      top: 535px;
+  }
+
+  .leader_div {
+      position: relative;
+      right: 8px;
+      bottom: 10px;
+  }
+
+  
+
+  /* #89609E */
+  
